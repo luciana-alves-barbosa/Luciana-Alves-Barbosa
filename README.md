@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00A1E0&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-End;Salesforce+Trailblazer;Em+busca+da+primeira+oportunidade" />
+</p>
+
 <h1 align="center">👋 Olá, eu sou a Luciana Alves Barbosa</h1>
 
 <p align="center">
@@ -6,6 +10,11 @@
 
 <p align="center">
 🎯 Em busca da minha primeira oportunidade na área de tecnologia
+</p>
+
+<p align="center">
+  🌐 <a href="https://luciana-alves2-github-io.vercel.app/" target="_blank">
+  Acesse meu Portfólio</a>
 </p>
 
 ---
@@ -62,14 +71,14 @@ Estou em constante evolução, desenvolvendo projetos e aprimorando minhas habil
 
 ## 📌 Projetos em Destaque
 
-🔹 **Landing Page Responsiva**  
-Interface moderna baseada em Figma com foco em responsividade  
+🔹 **Landing Page Responsiva (HTML, CSS)**  
+Interface moderna baseada em Figma, totalmente responsiva para mobile e desktop  
 
-🔹 **Automação com Salesforce (Flow Builder)**  
-Criação de fluxo automatizado simulando processo real de negócio  
+🔹 **Automação de Processos com Salesforce (Flow Builder)**  
+Fluxo automatizado simulando processo de aprovação de clientes  
 
-🔹 **Projeto JavaScript**  
-Aplicação com interatividade  
+🔹 **Aplicação Interativa com JavaScript**  
+Projeto com manipulação de DOM, eventos e lógica de programação
 
 ---
 
@@ -93,11 +102,12 @@ Aplicação com interatividade
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
+
 ---
 
 ## ✨ Objetivo
 
-Atuar como Desenvolvedora Front-End ou Salesforce (Admin/Developer), contribuindo com soluções eficientes e evoluindo constantemente na área de tecnologia.
+Busco minha primeira oportunidade como Desenvolvedora Front-End ou Salesforce, onde eu possa aplicar meus conhecimentos na prática, contribuir com o time e evoluir profissionalmente.
 
 ---
 
