@@ -1,31 +1,31 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00A1E0&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-End;Salesforce+Trailblazer;Em+busca+da+primeira+oportunidade" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00A1E0&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedora+Front-End;Salesforce+Trailblazer;Construindo+soluções+digitais" />
 </p>
 
 <h1 align="center">👋 Olá, eu sou a Luciana Alves Barbosa</h1>
 
 <p align="center">
-💻 Desenvolvedora Front-End em formação | ☁️ Salesforce  
+💻 Desenvolvedora Front-End | ☁️ Salesforce Trailblazer  
 </p>
 
 <p align="center">
-🎯 Em busca da minha primeira oportunidade na área de tecnologia
+🚀 Focada em criar interfaces modernas, responsivas e automatizar processos
 </p>
 
 <p align="center">
   🌐 <a href="https://luciana-alves2-github-io.vercel.app/" target="_blank">
-  Acesse meu Portfólio</a>
+  👉 Acesse meu Portfólio</a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou uma profissional em transição para a área de tecnologia, com foco em desenvolvimento Front-End e soluções em Salesforce.
+Sou uma profissional em transição para a área de tecnologia, com foco em **Desenvolvimento Front-End e Salesforce**.
 
-Tenho experiência prática na criação de interfaces responsivas utilizando HTML, CSS e JavaScript, além de automação de processos com Flow Builder no Salesforce.
+Tenho experiência prática no desenvolvimento de interfaces responsivas e na automação de processos utilizando Salesforce, sempre buscando **performance, usabilidade e boas práticas de código**.
 
-Estou em constante evolução, desenvolvendo projetos e aprimorando minhas habilidades técnicas com foco em boas práticas, usabilidade e performance.
+Atualmente, estou aprimorando minhas habilidades através de projetos reais e estudos contínuos, com foco em ingressar no mercado de tecnologia.
 
 ---
 
@@ -62,23 +62,39 @@ Estou em constante evolução, desenvolvendo projetos e aprimorando minhas habil
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana-alves-barbosa&layout=compact&theme=dracula"/>
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luciana-alves-barbosa&show_icons=true&theme=dracula"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luciana-alves-barbosa&layout=compact&theme=dracula"/>
-</p>
-
 ---
 
 ## 📌 Projetos em Destaque
 
-🔹 **Landing Page Responsiva (HTML, CSS)**  
-Interface moderna baseada em Figma, totalmente responsiva para mobile e desktop  
+🔹 **Landing Page Responsiva**  
+Interface moderna baseada em Figma, com foco em responsividade e experiência do usuário  
 
-🔹 **Automação de Processos com Salesforce (Flow Builder)**  
-Fluxo automatizado simulando processo de aprovação de clientes  
+🔹 **Automação de Processos com Salesforce**  
+Criação de fluxo automatizado simulando aprovação de clientes com Flow Builder  
 
 🔹 **Aplicação Interativa com JavaScript**  
-Projeto com manipulação de DOM, eventos e lógica de programação
+Manipulação de DOM, eventos e lógica de programação aplicada  
+
+👉 Em constante evolução — novos projetos sendo adicionados
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como **Desenvolvedora Front-End ou Salesforce**, onde eu possa:
+
+✔ Aplicar meus conhecimentos na prática  
+✔ Contribuir com soluções reais  
+✔ Evoluir junto com o time  
+
+---
+
+## 🔥 Diferenciais
+
+✔ Experiência prática com projetos publicados  
+✔ Conhecimento em automação com Salesforce  
+✔ Foco em código limpo e responsivo  
+✔ Perfil proativo e em constante aprendizado  
 
 ---
 
@@ -96,7 +112,6 @@ Projeto com manipulação de DOM, eventos e lógica de programação
   <a href="https://www.salesforce.com/trailblazer/luciana-alves-barbosa">
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   </a>
-</p>
 
   <a href="https://wa.me/5521989359806">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -105,21 +120,6 @@ Projeto com manipulação de DOM, eventos e lógica de programação
 
 ---
 
-## ✨ Objetivo
-
-Busco minha primeira oportunidade como Desenvolvedora Front-End ou Salesforce, onde eu possa aplicar meus conhecimentos na prática, contribuir com o time e evoluir profissionalmente.
-
----
-
-## 🔥 Diferenciais
-
-✔ Conhecimento em Salesforce (Flow, automação)  
-✔ Projetos práticos publicados no GitHub  
-✔ Foco em código limpo e responsividade  
-✔ Aprendizado contínuo  
-
----
-
 <p align="center">
-✨ Em constante evolução, um código por vez.
+✨ Construindo minha carreira na tecnologia, um projeto por vez.
 </p>
