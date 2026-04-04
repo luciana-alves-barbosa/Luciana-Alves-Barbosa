@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://luciana-alves2-github-io.vercel.app/" target="_blank">
+  🌐 <a href="https://lucianaalvesbarbosa.com" target="_blank">
   👉 Acesse meu Portfólio</a>
 </p>
 
